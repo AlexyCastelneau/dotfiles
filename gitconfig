@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexy.castelneau@gmail.com
+	name = Alexy Castelneau
